@@ -1,0 +1,10 @@
+{
+  "name": "webhook-logger",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  }
+}
